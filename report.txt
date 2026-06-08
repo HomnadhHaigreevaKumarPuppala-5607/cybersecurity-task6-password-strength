@@ -1,0 +1,87 @@
+CYBER SECURITY INTERNSHIP
+Task 6: Create a Strong Password and Evaluate Its Strength
+
+Objective:
+To understand password security and evaluate password strength using online tools.
+
+Tool Used:
+https://www.passwordmeter.com/
+
+Tested Passwords and Results:
+
+1. Password: 123456
+Strength: Very Weak
+Score: 4%
+Feedback:
+- Too short
+- Only numbers
+- Easily guessable
+
+2. Password: password
+Strength: Very Weak
+Score: 8%
+Feedback:
+- Common dictionary word
+- No uppercase letters
+- No symbols
+
+3. Password: Welcome123
+Strength: Medium
+Score: 55%
+Feedback:
+- Contains uppercase and numbers
+- Could be stronger with symbols
+
+4. Password: Welcome@123
+Strength: Strong
+Score: 78%
+Feedback:
+- Good combination of letters, numbers, and symbols
+
+5. Password: H0mnadh@2026
+Strength: Strong
+Score: 88%
+Feedback:
+- Good length
+- Includes uppercase, lowercase, numbers, and symbols
+
+6. Password: MySecure#Password99
+Strength: Very Strong
+Score: 96%
+Feedback:
+- Excellent complexity
+- Long and difficult to crack
+
+7. Password: Tr!pleLayer$Protection2026
+Strength: Extremely Strong
+Score: 100%
+Feedback:
+- Long passphrase
+- Multiple character types
+- Highly secure
+
+Common Password Attacks:
+1. Brute Force Attack:
+   Attackers try every possible combination.
+
+2. Dictionary Attack:
+   Attackers use common words and passwords from databases.
+
+Importance of Password Length:
+Long passwords are harder to crack and increase security significantly.
+
+What is Multi-Factor Authentication?
+MFA adds an extra verification step such as OTP or fingerprint.
+
+How Password Managers Help:
+Password managers store and generate secure passwords safely.
+
+Best Practices Learned:
+- Use long passwords
+- Include symbols and numbers
+- Avoid common words
+- Use unique passwords for every account
+- Enable MFA whenever possible
+
+Conclusion:
+Strong passwords significantly improve account security and protect against cyber attacks.
